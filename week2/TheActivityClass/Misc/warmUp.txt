@@ -1,0 +1,32 @@
+my answers for 1.b.a.
+act1 onCreate
+act1 onStart
+act1 onResume
+act1 onPause
+act2 onCreate
+act2 onStart
+act2 onResume
+act1 onStop
+
+my answers for 1.c.a
+act2 onPause
+act1 onRestart
+act1 onStart
+act1 onResume
+act2 onStop
+act2 onDestroy
+
+my answer for 1.d.a
+act1 onPause
+act2 onCreate
+act2 onStart
+act2 onResume
+act1 onStop
+act2 onPause
+act2 onStop
+
+my answer for 1.e.a
+act2 onRestart
+act2 onStart
+act2 onResume
+
